@@ -8,3 +8,8 @@
 	url = https://github.com/gisler/dtsg
 	shallow = true
 	registered = true
+[submodule "RPhosFate"]
+	path = RPhosFate
+	url = https://github.com/gisler/rphosfate
+	shallow = true
+	registered = true
