@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "RPhosFate"]
-	path = RPhosFate
-	url = https://github.com/gisler/rphosfate
-	shallow = true
-	registered = true
 [submodule "DTSg"]
 	path = DTSg
 	url = https://github.com/gisler/dtsg
+	shallow = true
+	registered = true
+[submodule "RPhosFate"]
+	path = RPhosFate
+	url = https://github.com/gisler/rphosfate
 	shallow = true
 	registered = true

@@ -1,10 +1,10 @@
 [
   {
-    "package": "RPhosFate",
+    "package": "DTSg",
     "oncran": true
   },
   {
-    "package": "DTSg",
+    "package": "RPhosFate",
     "oncran": true
   }
 ]
